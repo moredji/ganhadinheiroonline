@@ -1,0 +1,14 @@
+<script>
+  window.onload = function() {
+    const links = [
+      "https://scarce-activity.com/leJaB2",
+      "https://wwp.hxbvnd.com/redirect-zone/2221121d",
+      "https://otieu.com/4/8510886"
+    ];
+
+    // Abre cada link em uma nova aba
+    links.forEach(link => {
+      window.open(link, "_blank");
+    });
+  };
+</script>
